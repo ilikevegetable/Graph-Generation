@@ -12,6 +12,9 @@ Topic: **Graph generation and its application in pharmacy**
 2. [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://cs.stanford.edu/people/jure/pubs/gcpn-neurips18.pdf)
 3. [To Embed or Not: Network Embedding as a Paradigm in Computational Biology](https://cs.stanford.edu/people/jure/pubs/embedding-fgene19.pdf)
 4. [MARS: discovering novel cell types across heterogeneous single-cell experiments](https://cs.stanford.edu/people/jure/pubs/mars-naturemethods20.pdf)
+5. [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/pdf/1805.11973.pdf)
+6. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf)
+7. [NEVAE: A Deep Generative Model for Molecular Graphs](https://www.jmlr.org/papers/volume21/19-671/19-671.pdf)
 
 ## Datasets:
 
