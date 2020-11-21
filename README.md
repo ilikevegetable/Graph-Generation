@@ -16,5 +16,4 @@ Topic: **Graph generation and its application in pharmacy**
 ## Datasets:
 
 1. [Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/pdf/1906.09427.pdf)
-
 2. [MoleculeNet: A Benchmark for Molecular Machine Learning](https://pubs.rsc.org/--/content/articlehtml/2018/sc/c7sc02664a)
