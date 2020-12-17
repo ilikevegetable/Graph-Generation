@@ -15,9 +15,10 @@ Topic: **Graph generation and its application in pharmacy**
 5. [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/pdf/1805.11973.pdf)
 6. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf)
 7. [NEVAE: A Deep Generative Model for Molecular Graphs](https://www.jmlr.org/papers/volume21/19-671/19-671.pdf)
-8. [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/pdf/2001.09382.pdf)
-9. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/pdf/2002.03230.pdf)
-10. [Multi-Objective Molecule Generation using Interpretable Substructures](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)
+8. [GraphVAE: Towards Generation of Small Graphs Using Variational Autoencoders](https://arxiv.org/pdf/1802.03480.pdf)
+9. [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/pdf/2001.09382.pdf)
+10. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/pdf/2002.03230.pdf)
+11. [Multi-Objective Molecule Generation using Interpretable Substructures](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)
 
 ## Datasets:
 
