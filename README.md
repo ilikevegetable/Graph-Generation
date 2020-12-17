@@ -16,8 +16,11 @@ Topic: **Graph generation and its application in pharmacy**
 6. [Junction Tree Variational Autoencoder for Molecular Graph Generation](https://arxiv.org/pdf/1802.04364.pdf)
 7. [NEVAE: A Deep Generative Model for Molecular Graphs](https://www.jmlr.org/papers/volume21/19-671/19-671.pdf)
 8. [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/pdf/2001.09382.pdf)
+9. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/pdf/2002.03230.pdf)
+10. [Multi-Objective Molecule Generation using Interpretable Substructures](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)
 
 ## Datasets:
 
 1. [Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/pdf/1906.09427.pdf)
 2. [MoleculeNet: A Benchmark for Molecular Machine Learning](https://pubs.rsc.org/--/content/articlehtml/2018/sc/c7sc02664a)
+
