@@ -4,7 +4,6 @@ Topic: **Graph generation and its application in pharmacy**
 
 1. Problem: given a set of graphs, design a property model for learning the graph distribution, and generate a new graph with some particular property (depends on the downstream task).
 2. Advantage: real-world dataset in the pharmacy domain 
-3. Position: 2-3 people
 
 ## Papers-list:
 
@@ -19,6 +18,13 @@ Topic: **Graph generation and its application in pharmacy**
 9. [GraphAF: a Flow-based Autoregressive Model for Molecular Graph Generation](https://arxiv.org/pdf/2001.09382.pdf)
 10. [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://arxiv.org/pdf/2002.03230.pdf)
 11. [Multi-Objective Molecule Generation using Interpretable Substructures](http://proceedings.mlr.press/v119/jin20b/jin20b.pdf)
+12. [MolecularRNN: Generating realistic molecular graphs with optimized properties](https://arxiv.org/pdf/1905.13372.pdf)
+
+## Generative Models (papers):
+
+1. [Variational Autoencoders (VAEs)]()
+2. [Generative Adversarial Networks (GANs)]()
+3. [PixelCNN/PixelRNN](https://arxiv.org/pdf/1601.06759.pdf)
 
 ## Datasets:
 
