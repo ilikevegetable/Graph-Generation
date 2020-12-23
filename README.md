@@ -22,9 +22,10 @@ Topic: **Graph generation and its application in pharmacy**
 
 ## Generative Models (papers):
 
-1. [Variational Autoencoders (VAEs)]()
-2. [Generative Adversarial Networks (GANs)]()
-3. [PixelCNN/PixelRNN](https://arxiv.org/pdf/1601.06759.pdf)
+1. [Variational Autoencoders (VAEs)](https://arxiv.org/pdf/1312.6114.pdf?source=post_page---------------------------)
+2. [Generative Adversarial Networks (GANs)](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+3. [Normalizing Flows](https://arxiv.org/pdf/1908.09257.pdf)
+4. [PixelCNN/PixelRNN](https://arxiv.org/pdf/1601.06759.pdf)
 
 ## Datasets:
 
